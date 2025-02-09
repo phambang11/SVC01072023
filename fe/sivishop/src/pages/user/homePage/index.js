@@ -3,9 +3,9 @@ import React, { memo } from 'react';
 const HomePage = () => {
     
     return (
-        <h1>
-           Sivi SHOP từ trang chủ
-        </h1>
+        <div>
+           <h1>Body - homePage</h1>
+        </div>
     );
 };
 
