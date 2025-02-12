@@ -6,7 +6,6 @@ const MaterLayout = ({children, ...props}) => {
     
     return (
         <div>
-           Sivi SHOP từ trang chủ
            <Header />
            {children}
            <Footer />
